@@ -1,4 +1,5 @@
-### Welcome to my GitHub page!
+### Welcome to my GitHub page! 
+<img src="https://komarev.com/ghpvc/?username=cristinarlr&&style=flat-square" align="center" />
 
 ---
 ### Hi there 👋
@@ -103,13 +104,11 @@ Coming from a varied background spanning science, environmental studies, and edu
 ---
 
 ## Github Stats  
-<div align="center">
+<div align="left">
 
-<img src="https://komarev.com/ghpvc/?username=cristinarlr&&style=flat-square" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=cristinarlr&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />  
 
-<img src="https://github-readme-stats.vercel.app/api?username=cristinarlr&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" />  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristinarlr&hide_border=true&layout=compact&theme=tokyonight" align="right" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristinarlr&hide_border=true&layout=compact&theme=tokyonight"  />  
 
 </div>  
 
