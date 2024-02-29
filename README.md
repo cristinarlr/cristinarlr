@@ -64,42 +64,40 @@ With a diverse background in science, environment and education, I bring a uniqu
 
 ---
 
-### :fire: My Stats :
-  
-<br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristinarlr&hide=HTML,G-code,scss,css,objective-c,roff,tex,makefile&theme=radical&langs_count=8" alt="Top Langs"/>
-</a>
-
-<br>
-  
-<br>
-  
-<br>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cristinarlr&theme=radical&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
-  
-<br>
-  
-<br>
-  
-<br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cristinarlr&theme=radical&show_icons=true&hide=stars,prs" alt="Catalin's GitHub stats"/>
-</a>
-
-<br>
-
-<br>
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=cristinarlr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+###  My 42 Journey:
+| Project |
+|------|
+| [**piscina**](https://github.com/cristinarlr/piscina_42) |
+| [**libft**](https://github.com/cristinarlr/libft) |
+| [**ft_printf**](https://github.com/cristinarlr/ft_printf) |
+| **born2beroot** |
+| [**get_next_line**](https://github.com/cristinarlr/get_next_line) |
+| [**so_long**](https://github.com/cristinarlr/so_long) |
+| [**pipex**](https://github.com/cristinarlr/pipex) |
+| [**push_swap**](https://github.com/cristinarlr/push_swap) |
 
 ---
+
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=cristinarlr&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="left" />  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristinarlr&hide_border=true&layout=compact&theme=tokyonight" align="left" />  
+
+<br/>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=cristinarlr&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+<br/> 
+<br/> 
+
+---
+
 
 <!--
 **cristinarlr/cristinarlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
