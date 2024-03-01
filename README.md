@@ -4,9 +4,12 @@
 ---
 ### Hi there 👋
 
-Here, a R&D specialist turned into tech! I am currently studying software development at 42 Madrid, I'm passionate about coding and always eager to expand my knowledge. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Here, a R&D specialist turned into tech! I am currently studying software development at 42 Madrid, I'm passionate about coding and always eager to expand my knowledge <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-Coming from a varied background spanning science, environmental studies, and education, I bring an innovative outlook to my work. Driven by curiosity, I've harnessed technology to craft a dynamic collage of experiences that I carry in my backpack. I am eager to take on new challenges and create meaningful solutions."
+With a background in pure sciences, economics and education, I bring an innovative perspective to my work. Driven by curiosity, I have taken advantage of technology to create a professional profile that is like a dynamic collage thanks to all the experiences I carry in my backpack. I am eager to take on new challenges and create meaningful solutions.
+
+〰️ I am directing my sails towards data science skills 〰️
+
 
 ---
 
@@ -22,13 +25,15 @@ Coming from a varied background spanning science, environmental studies, and edu
 <div align="left">
   <h4 align="left">Languages:</h4>
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+ 
+<!-- **C++ & PYTHON TO ADD SOON **:)
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-
-  
+--> 
+   <!--  --> 
   <!--  
   <h4 align="left">DevOps:</h4>
   <img width="12" />
@@ -55,10 +60,11 @@ Coming from a varied background spanning science, environmental studies, and edu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   -->
 
-  
+  <!-- 
   <h4 align="left">Tools:</h4>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  -->
   
   <h4 align="left">Other:</h4>
   <img width="12" />
@@ -71,10 +77,13 @@ Coming from a varied background spanning science, environmental studies, and edu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+  <!--
+  ARDUINO & RASPBERRI PI TO ADD SOON
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  -->
   
   <h4 align="left">Text Editors:</h4>
   <img width="12" />
