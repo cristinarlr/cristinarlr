@@ -110,6 +110,9 @@ With a background in pure sciences, economics and education, I bring an innovati
 - [so_long](https://github.com/cristinarlr/so_long) - 2D game
 - [pipex](https://github.com/cristinarlr/pipex) - Simulate pipe commands
 
+#### Level 4:
+- [minishell](https://github.com/cristinarlr/minishell) - Sorting a stack with minimal movements
+
 ---
 
 ## Github Stats  
