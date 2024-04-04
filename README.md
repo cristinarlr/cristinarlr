@@ -94,7 +94,7 @@ With a background in pure sciences, economics and education, I bring an innovati
 
 ---
 
-### Studies at 42 School
+### Studies at 42 School (C programming language)
 - [piscine](https://github.com/cristinarlr/piscina_42)
 
 #### Level 1:
