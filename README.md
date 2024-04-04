@@ -111,7 +111,7 @@ With a background in pure sciences, economics and education, I bring an innovati
 - [pipex](https://github.com/cristinarlr/pipex) - Simulate pipe commands
 
 #### Level 4:
-- [minishell](https://github.com/cristinarlr/minishell) - Sorting a stack with minimal movements
+- [minishell](https://github.com/cristinarlr/minishell) - A team project to build a shell in C (in progress)
 
 ---
 
